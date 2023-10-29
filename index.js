@@ -54,6 +54,9 @@ const getBlogContent = async () => {
   }
 }
 
+const affiliateRedirect = () => {}
+//Resolver bug
+
 getBlogContent();
 
 //test del back
